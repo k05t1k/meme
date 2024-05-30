@@ -1,0 +1,11 @@
+C:\Projects\C#\libs\LanguageSwitcher\bin\Debug\net8.0\LanguageSwitcher.deps.json
+C:\Projects\C#\libs\LanguageSwitcher\bin\Debug\net8.0\LanguageSwitcher.dll
+C:\Projects\C#\libs\LanguageSwitcher\bin\Debug\net8.0\LanguageSwitcher.pdb
+C:\Projects\C#\libs\LanguageSwitcher\obj\Debug\net8.0\LanguageSwitcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C#\libs\LanguageSwitcher\obj\Debug\net8.0\LanguageSwitcher.AssemblyInfoInputs.cache
+C:\Projects\C#\libs\LanguageSwitcher\obj\Debug\net8.0\LanguageSwitcher.AssemblyInfo.cs
+C:\Projects\C#\libs\LanguageSwitcher\obj\Debug\net8.0\LanguageSwitcher.csproj.CoreCompileInputs.cache
+C:\Projects\C#\libs\LanguageSwitcher\obj\Debug\net8.0\LanguageSwitcher.dll
+C:\Projects\C#\libs\LanguageSwitcher\obj\Debug\net8.0\refint\LanguageSwitcher.dll
+C:\Projects\C#\libs\LanguageSwitcher\obj\Debug\net8.0\LanguageSwitcher.pdb
+C:\Projects\C#\libs\LanguageSwitcher\obj\Debug\net8.0\ref\LanguageSwitcher.dll

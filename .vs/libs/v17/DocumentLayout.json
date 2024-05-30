@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\C#\\libs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8BF1EC-F458-4287-8657-1AED9857A5EE}|libs\\libs.csproj|c:\\projects\\c#\\libs\\libs\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8BF1EC-F458-4287-8657-1AED9857A5EE}|libs\\libs.csproj|solutionrelative:libs\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F7FBF5-8B53-4F1B-B37A-8493E2066A3F}|JsonConv\\JsonConv.csproj|c:\\projects\\c#\\libs\\jsonconv\\jsonconv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F7FBF5-8B53-4F1B-B37A-8493E2066A3F}|JsonConv\\JsonConv.csproj|solutionrelative:jsonconv\\jsonconv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8BF1EC-F458-4287-8657-1AED9857A5EE}|libs\\libs.csproj|c:\\projects\\c#\\libs\\libs\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8BF1EC-F458-4287-8657-1AED9857A5EE}|libs\\libs.csproj|solutionrelative:libs\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{648B8F9B-ED69-4D66-8489-EF7F7151C2C2}|LanguageSwitcher\\LanguageSwitcher.csproj|c:\\projects\\c#\\libs\\languageswitcher\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{648B8F9B-ED69-4D66-8489-EF7F7151C2C2}|LanguageSwitcher\\LanguageSwitcher.csproj|solutionrelative:languageswitcher\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\C#\\libs\\libs\\bin\\Debug\\net8.0-windows\\lox.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libs\\bin\\Debug\\net8.0-windows\\lox.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8BF1EC-F458-4287-8657-1AED9857A5EE}|libs\\libs.csproj|c:\\projects\\c#\\libs\\libs\\ayylmao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8BF1EC-F458-4287-8657-1AED9857A5EE}|libs\\libs.csproj|solutionrelative:libs\\ayylmao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8BF1EC-F458-4287-8657-1AED9857A5EE}|libs\\libs.csproj|c:\\projects\\c#\\libs\\libs\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1B8BF1EC-F458-4287-8657-1AED9857A5EE}|libs\\libs.csproj|solutionrelative:libs\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8BF1EC-F458-4287-8657-1AED9857A5EE}|libs\\libs.csproj|c:\\projects\\c#\\libs\\libs\\libs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B8BF1EC-F458-4287-8657-1AED9857A5EE}|libs\\libs.csproj|solutionrelative:libs\\libs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8BF1EC-F458-4287-8657-1AED9857A5EE}|libs\\libs.csproj|c:\\projects\\c#\\libs\\libs\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1B8BF1EC-F458-4287-8657-1AED9857A5EE}|libs\\libs.csproj|solutionrelative:libs\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8BF1EC-F458-4287-8657-1AED9857A5EE}|libs\\libs.csproj|c:\\projects\\c#\\libs\\libs\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8BF1EC-F458-4287-8657-1AED9857A5EE}|libs\\libs.csproj|solutionrelative:libs\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F7FBF5-8B53-4F1B-B37A-8493E2066A3F}|JsonConv\\JsonConv.csproj|c:\\projects\\c#\\libs\\jsonconv\\jsonconv.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B8F7FBF5-8B53-4F1B-B37A-8493E2066A3F}|JsonConv\\JsonConv.csproj|solutionrelative:jsonconv\\jsonconv.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lox.json",
+              "DocumentMoniker": "C:\\Projects\\C#\\libs\\libs\\bin\\Debug\\net8.0-windows\\lox.json",
+              "RelativeDocumentMoniker": "libs\\bin\\Debug\\net8.0-windows\\lox.json",
+              "ToolTip": "C:\\Projects\\C#\\libs\\libs\\bin\\Debug\\net8.0-windows\\lox.json",
+              "RelativeToolTip": "libs\\bin\\Debug\\net8.0-windows\\lox.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-30T19:39:48.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AyyLmao.cs",
+              "DocumentMoniker": "C:\\Projects\\C#\\libs\\libs\\AyyLmao.cs",
+              "RelativeDocumentMoniker": "libs\\AyyLmao.cs",
+              "ToolTip": "C:\\Projects\\C#\\libs\\libs\\AyyLmao.cs",
+              "RelativeToolTip": "libs\\AyyLmao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T19:05:52.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Projects\\C#\\libs\\libs\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "libs\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Projects\\C#\\libs\\libs\\MainWindow.xaml.cs",
+              "RelativeToolTip": "libs\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAABwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:50:56.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Projects\\C#\\libs\\libs\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "libs\\MainWindow.xaml",
+              "ToolTip": "C:\\Projects\\C#\\libs\\libs\\MainWindow.xaml",
+              "RelativeToolTip": "libs\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T18:50:57.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Language.cs",
+              "DocumentMoniker": "C:\\Projects\\C#\\libs\\LanguageSwitcher\\Language.cs",
+              "RelativeDocumentMoniker": "LanguageSwitcher\\Language.cs",
+              "ToolTip": "C:\\Projects\\C#\\libs\\LanguageSwitcher\\Language.cs",
+              "RelativeToolTip": "LanguageSwitcher\\Language.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:55:39.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "libs",
+              "DocumentMoniker": "C:\\Projects\\C#\\libs\\libs\\libs.csproj",
+              "RelativeDocumentMoniker": "libs\\libs.csproj",
+              "ToolTip": "C:\\Projects\\C#\\libs\\libs\\libs.csproj",
+              "RelativeToolTip": "libs\\libs.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-30T18:58:36.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JsonConv.cs",
+              "DocumentMoniker": "C:\\Projects\\C#\\libs\\JsonConv\\JsonConv.cs",
+              "RelativeDocumentMoniker": "JsonConv\\JsonConv.cs",
+              "ToolTip": "C:\\Projects\\C#\\libs\\JsonConv\\JsonConv.cs",
+              "RelativeToolTip": "JsonConv\\JsonConv.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T19:04:43.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "C:\\Projects\\C#\\libs\\libs\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "libs\\Window1.xaml.cs",
+              "ToolTip": "C:\\Projects\\C#\\libs\\libs\\Window1.xaml.cs",
+              "RelativeToolTip": "libs\\Window1.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T19:21:16.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "C:\\Projects\\C#\\libs\\libs\\Window1.xaml",
+              "RelativeDocumentMoniker": "libs\\Window1.xaml",
+              "ToolTip": "C:\\Projects\\C#\\libs\\libs\\Window1.xaml",
+              "RelativeToolTip": "libs\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T19:14:00.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Projects\\C#\\libs\\libs\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "libs\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Projects\\C#\\libs\\libs\\AssemblyInfo.cs",
+              "RelativeToolTip": "libs\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:57:16.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JsonConv",
+              "DocumentMoniker": "C:\\Projects\\C#\\libs\\JsonConv\\JsonConv.csproj",
+              "RelativeDocumentMoniker": "JsonConv\\JsonConv.csproj",
+              "ToolTip": "C:\\Projects\\C#\\libs\\JsonConv\\JsonConv.csproj",
+              "RelativeToolTip": "JsonConv\\JsonConv.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-30T19:16:10.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
